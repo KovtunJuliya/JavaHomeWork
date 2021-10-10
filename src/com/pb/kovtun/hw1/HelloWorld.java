@@ -1,4 +1,4 @@
-package com.pb.kovtun.hm1;
+package com.pb.kovtun.hw1;
 
 public class HelloWorld {
     public static void main(String[] args){
